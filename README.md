@@ -21,7 +21,13 @@ name,brand,price,rating
 iphone 15 pro,apple,999,4.9
 galaxy s23 ultra,samsung,1199,4.8
 redmi note 12,xiaomi,199,4.6
+iphone 14,apple,799,4.7
+galaxy a54,samsung,349,4.2
 poco x5 pro,xiaomi,299,4.4
+iphone se,apple,429,4.1
+galaxy z flip 5,samsung,999,4.6
+redmi 10c,xiaomi,149,4.1
+iphone 13 mini,apple,599,4.5
 ````
 ---
 
@@ -29,14 +35,14 @@ poco x5 pro,xiaomi,299,4.4
 📋 Показ таблицы:
 ![Все товары](Examples/Products.jpg)
 
-🔍 Фильтрация по бренду `Xiaomi`:
+🔍 Минимальное значение по бренду `Xiaomi`:
 ![Фильтрация по "Xiaomi" ](Examples/Min_rating_of_brand.jpg)
 
 📊 Агрегация среднего значения рейтинга:
 ![Агрегация avg](Examples/Average_rating.jpg)
 
-📑 Сортировка по рейтингу больше 4,5:
-![Сортировка рейтинга](Examples/Sort_more_then_4,5.jpg)
+📑 Сортировка по рейтингу > 4,5:
+![Сортировка рейтинга](Examples/Sort_more_than_4,5.jpg)
 
 ---
 
